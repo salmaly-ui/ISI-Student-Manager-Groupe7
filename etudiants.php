@@ -11,6 +11,7 @@ $etudiants = [
 <html>
 <head>
     <title>Liste des etudiants</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
