@@ -17,7 +17,7 @@ https://github.com/salmaly-ui/ISI-Student-Manager-Groupe7
 |---|---|---|
 | Étudiant A | À compléter | Page d'accueil `index.php` |
 | Étudiant B | **Hiba Ouirouane** | Liste des étudiants `etudiants.php` |
-| Étudiant C | À compléter | Liste des projets `projets.php` |
+| Étudiant C | **Fatima-ezzahra Sahmad** | Liste des projets `projets.php` |
 | Étudiant D | À compléter | Mise en forme `style.css` |
 
 ---
