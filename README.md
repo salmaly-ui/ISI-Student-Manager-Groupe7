@@ -46,7 +46,9 @@ git config --global --list
 ### 📸 Étudiant B
 
 <img width="945" height="551" alt="image" src="https://github.com/user-attachments/assets/4393ec23-e56c-4169-84d3-4586ed40e7fe" />
+
 ### 📸 Étudiant C
+
 <img width="483" height="389" alt="image" src="https://github.com/user-attachments/assets/927c4c4a-2ef3-4e60-8837-03f72bbd4511" />
 
 ### 📸 Autres membres
