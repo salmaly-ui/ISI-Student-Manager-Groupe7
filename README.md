@@ -46,10 +46,11 @@ git config --global --list
 ### 📸 Étudiant B
 
 <img width="945" height="551" alt="image" src="https://github.com/user-attachments/assets/4393ec23-e56c-4169-84d3-4586ed40e7fe" />
+### 📸 Étudiant C
+<img width="483" height="389" alt="image" src="https://github.com/user-attachments/assets/927c4c4a-2ef3-4e60-8837-03f72bbd4511" />
 
 ### 📸 Autres membres
 - **A :** Ajouter votre capture ici.
-- **C :** Ajouter votre capture ici.
 - **D :** Ajouter votre capture ici.
 
 ---
@@ -63,10 +64,11 @@ L'étudiant A crée le dépôt GitHub et invite les autres membres comme collabo
 ### 📸 Étudiant B
 
 <img width="1314" height="794" alt="image" src="https://github.com/user-attachments/assets/db3d1244-574f-4c3f-85ac-c7d9fa29a02e" />
-
+### 📸 Étudiant C
+ <img width="626" height="464" alt="image" src="https://github.com/user-attachments/assets/c301e89f-a747-43c2-aea9-29d083b6d2e3" />
+ 
 ### 📸 Autres membres
 - **A :** Ajouter la capture de création du dépôt.
-- **C :** Ajouter votre capture ici.
 - **D :** Ajouter votre capture ici.
 
 ---
@@ -84,21 +86,26 @@ git branch -a
 git status
 ```
 
-**Étudiant B :** authentification SSH et clonage réussis.
 
+### 📸 Autres membres
+- **A :** Ajouter votre capture ici.
+- **D :** Ajouter votre capture ici.
+- 
+**authentification SSH et clonage réussis.**
+  
 ### 📸 Étudiant B
 
 <img width="945" height="379" alt="image" src="https://github.com/user-attachments/assets/5a7ffc44-2a5d-44d2-b11f-1129c7ca7e14" />
 
 <img width="1542" height="594" alt="image" src="https://github.com/user-attachments/assets/a71be29a-aa66-4534-9ea4-0f64ff6692f0" />
+### 📸 Étudiant C
+
+<img width="1335" height="483" alt="4bea3c76-d3f3-42ce-820d-48ce82af34a2" src="https://github.com/user-attachments/assets/e81b6821-f123-42ce-a34c-eacfe7a4bf21" />
+
+<img width="690" height="192" alt="c98e3782-35ee-428e-a357-ad1a7315417d" src="https://github.com/user-attachments/assets/21e7c0a0-b88e-4481-ab0a-df51fd3a1b5d" />
 
 
-### 📸 Autres membres
-- **A :** Ajouter votre capture ici.
-- **C :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
 
----
 
 ## Exercice 4 — Commit initial
 
@@ -113,14 +120,6 @@ git pull origin main
 
 **Commit :** enregistrement local des modifications.  
 **Push :** publication des commits vers GitHub.
-
-### 📸 Captures
-- **A :** Ajouter la capture du commit initial.
-- **B :** Ajouter votre capture ici.
-- **C :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
-
----
 
 ## Exercice 5 — Branches individuelles
 
@@ -144,10 +143,19 @@ git branch
 
 <img width="1377" height="408" alt="image" src="https://github.com/user-attachments/assets/ed06fe14-c5b0-4212-a629-caf6c406a5d8" />
 
+**Étudiant C :**
+
+```bash
+git switch -c feature/projets
+git branch
+```
+
+### 📸 Étudiant C
+
+<img width="981" height="723" alt="e289cae9-3f09-4f25-a6af-2501b31a820b" src="https://github.com/user-attachments/assets/eaf16d80-4804-4065-abc2-58a6d046778d" />
 
 ### 📸 Autres membres
 - **A :** Ajouter votre capture ici.
-- **C :** Ajouter votre capture ici.
 - **D :** Ajouter votre capture ici.
 
 ---
@@ -181,9 +189,16 @@ git push -u origin feature/etudiants
 
 <img width="945" height="328" alt="image" src="https://github.com/user-attachments/assets/b9901ef1-f28d-4912-86cf-6a5ed315af4f" />
 
+### 👩‍💻 Étudiant C — projets.php
+
+Création d'une liste contenant les trois projets.
+
+### 📸 Résultat de la page PHP
+
+<img width="825" height="343" alt="32bec9e1-a5ff-4223-819f-77759ad0111c" src="https://github.com/user-attachments/assets/ec4c2f76-83e0-4dd9-9f52-cb3a2517241c" />
+
 ### 📸 Autres membres
 - **A :** Ajouter la capture de `index.php`.
-- **C :** Ajouter la capture de `projets.php`.
 - **D :** Ajouter la capture de `style.css`.
 
 ---
@@ -206,9 +221,18 @@ Pull Request #2 — Ajout de la liste des étudiants.
 
 <img width="1600" height="599" alt="image" src="https://github.com/user-attachments/assets/b6fe1a2f-694e-4f59-bf7d-ac62436adbd8" />
 
+### 👩‍💻 Étudiant C
+
+Pull Request #3 — Ajout de la liste des projets.
+
+🔗 https://github.com/salmaly-ui/ISI-Student-Manager-Groupe7/pull/3
+
+### 📸 Étudiant C
+
+<img width="1326" height="571" alt="2c40df0f-faec-418f-aa65-0cbb4e2809b6" src="https://github.com/user-attachments/assets/9cd6de8e-68b2-4942-baf1-de6a0efbc851" />
+
 ### 📸 Autres membres
 - **A :** Ajouter la capture de votre Pull Request.
-- **C :** Ajouter la capture de votre Pull Request.
 - **D :** Ajouter la capture de votre Pull Request.
 
 ---
@@ -276,7 +300,6 @@ git push -u origin conflit/etudiant-b
 
 ### 📸 Autres membres
 - **A :** Ajouter la capture de création de `configuration.txt`.
-- **C :** Ajouter la capture de la modification `Version : 3.0 - Etudiant C`.
 - **D :** Ajouter une capture ou une observation si nécessaire.
 
 ---
@@ -328,15 +351,10 @@ git status
 ```
 
 ### 📸 Captures de vérification finale
-- **A :** Ajouter votre capture ici.
-- **B :
 - <img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/e2ea5342-db82-4d61-be5c-bdb45b6544b0" />
 
 <img width="1353" height="929" alt="image" src="https://github.com/user-attachments/assets/de47b6bf-2b35-4751-b421-0c1075b0bf5b" />
-- **C :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
 
----
 
 ## 📝 Conclusion
 
