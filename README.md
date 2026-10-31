@@ -61,12 +61,13 @@ git config --global --list
 
 L'étudiant A crée le dépôt GitHub et invite les autres membres comme collaborateurs.
 
-**Étudiant B :** accès au dépôt commun avec son compte GitHub.
 
 ### 📸 Étudiant B
 
 <img width="1314" height="794" alt="image" src="https://github.com/user-attachments/assets/db3d1244-574f-4c3f-85ac-c7d9fa29a02e" />
+
 ### 📸 Étudiant C
+
  <img width="626" height="464" alt="image" src="https://github.com/user-attachments/assets/c301e89f-a747-43c2-aea9-29d083b6d2e3" />
  
 ### 📸 Autres membres
@@ -100,6 +101,7 @@ git status
 <img width="945" height="379" alt="image" src="https://github.com/user-attachments/assets/5a7ffc44-2a5d-44d2-b11f-1129c7ca7e14" />
 
 <img width="1542" height="594" alt="image" src="https://github.com/user-attachments/assets/a71be29a-aa66-4534-9ea4-0f64ff6692f0" />
+
 ### 📸 Étudiant C
 
 <img width="1335" height="483" alt="4bea3c76-d3f3-42ce-820d-48ce82af34a2" src="https://github.com/user-attachments/assets/e81b6821-f123-42ce-a34c-eacfe7a4bf21" />
