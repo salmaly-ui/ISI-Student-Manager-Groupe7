@@ -93,7 +93,8 @@ git status
 ### 📸 Autres membres
 - **A :** Ajouter votre capture ici.
 - **D :** Ajouter votre capture ici.
-- 
+
+ 
 **authentification SSH et clonage réussis.**
   
 ### 📸 Étudiant B
