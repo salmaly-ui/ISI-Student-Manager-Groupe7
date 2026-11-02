@@ -187,7 +187,7 @@ git branch
 
 <img width="954" height="821" alt="Branche étudiant D" src="https://github.com/user-attachments/assets/965b613a-313a-4d34-876f-a4514b8d674b" />
 
-<img width="954" height="821" alt="Capture complémentaire étudiant D" src="https://github.com/user-attachments/assets/5371a2df-301e-4f7b-8499-52314a3ea773" />
+
 
 ---
 
