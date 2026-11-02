@@ -15,7 +15,7 @@ https://github.com/salmaly-ui/ISI-Student-Manager-Groupe7
 
 | Membre | Nom et prénom | Travail réalisé |
 |---|---|---|
-| Étudiant A | À compléter | Page d'accueil `index.php` |
+| Étudiant A |**LAOUY SALMA** | Page d'accueil `index.php` |
 | Étudiant B | **Hiba Ouirouane** | Liste des étudiants `etudiants.php` |
 | Étudiant C | **Fatima-ezzahra Sahmad** | Liste des projets `projets.php` |
 | Étudiant D | À compléter | Mise en forme `style.css` |
@@ -42,6 +42,9 @@ git config --global user.name "Nom Prenom"
 git config --global user.email "email@example.com"
 git config --global --list
 ```
+### 📸 Étudiant A
+<img width="778" height="325" alt="Ex1 png" src="https://github.com/user-attachments/assets/4e5c9d7a-4e16-4aec-9c0b-148950e06055" />
+
 
 ### 📸 Étudiant B
 
@@ -55,15 +58,20 @@ git config --global --list
 
 <img width="962" height="476" alt="9bb8e334-93b1-4bd5-a27b-4287430addf1" src="https://github.com/user-attachments/assets/9cc8bd02-ab8f-4dba-b5f7-5b3274cd461a" />
 
-### 📸 Autres membres
-- **A :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
 
----
 
 ## Exercice 2 — Création du dépôt commun
 
 L'étudiant A crée le dépôt GitHub et invite les autres membres comme collaborateurs.
+
+### 📸 Étudiant A 
+# Cration du dépôt github :
+
+<img width="986" height="856" alt="Ex2_Q1_Creation-Depot png" src="https://github.com/user-attachments/assets/f2748b2e-a688-47e4-a0ed-d524a5cc84d3" />
+
+# Invitation des collaborateurs  
+
+<img width="1600" height="818" alt="Ex2_Q2_Invitation-Collaborateurs png" src="https://github.com/user-attachments/assets/93232ae8-802d-4d61-94b6-a659c7bff827" />
 
 
 ### 📸 Étudiant B
@@ -74,9 +82,7 @@ L'étudiant A crée le dépôt GitHub et invite les autres membres comme collabo
 
  <img width="626" height="464" alt="image" src="https://github.com/user-attachments/assets/c301e89f-a747-43c2-aea9-29d083b6d2e3" />
  
-### 📸 Autres membres
-- **A :** Ajouter la capture de création du dépôt.
-- **D :** Ajouter votre capture ici.
+ 
 
 ---
 
@@ -94,13 +100,14 @@ git status
 ```
 
 
-### 📸 Autres membres
-- **A :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
 
- 
 **authentification SSH et clonage réussis.**
-  
+### 📸 Étudiant A
+
+<img width="1334" height="677" alt="clonage-ssh" src="https://github.com/user-attachments/assets/716631ea-f68e-4b7c-98b5-6d835f1e58c5" />
+
+<img width="1600" height="755" alt="Ex3_Q1_Cles-SSH2 png" src="https://github.com/user-attachments/assets/094fb881-6cfa-490e-a629-fad06380b350" />
+
 ### 📸 Étudiant B
 
 <img width="945" height="379" alt="image" src="https://github.com/user-attachments/assets/5a7ffc44-2a5d-44d2-b11f-1129c7ca7e14" />
@@ -145,6 +152,16 @@ Chaque étudiant crée sa propre branche.
 | C | `feature/projets` |
 | D | `feature/style` |
 
+**Étudiant A:**
+
+```bash
+git switch -c feature/acceuil
+git branch
+```
+
+<img width="1920" height="1080" alt="Ex6_Q1_Page-Accueil png" src="https://github.com/user-attachments/assets/f79ef5ef-6273-44a1-86da-98a02335dba7" />
+
+
 **Étudiant B :**
 
 ```bash
@@ -172,11 +189,7 @@ git branch
 
 <img width="954" height="821" alt="f46d689b-d862-4d5f-8452-2a1d22e38b7a" src="https://github.com/user-attachments/assets/965b613a-313a-4d34-876f-a4514b8d674b" />
 
-### 📸 Autres membres
-- **A :** Ajouter votre capture ici.
-- **D :** Ajouter votre capture ici.
-
----
+ 
 
 ## Exercice 6 — Développement en parallèle
 
@@ -186,6 +199,10 @@ Chaque membre développe sa fonctionnalité sur sa branche.
 - **B :** Tableau PHP de 3 étudiants.
 - **C :** Liste des projets.
 - **D :** Style CSS.
+### 👩‍💻 Étudiant A — acceuil.php
+
+<img width="960" height="528" alt="image" src="https://github.com/user-attachments/assets/7b15083c-fa3d-4a4e-9589-9cdb0e81de6b" />
+
 
 ### 👩‍💻 Étudiant B — etudiants.php
 
@@ -214,18 +231,19 @@ Création d'une liste contenant les trois projets.
 ### 📸 Résultat de la page PHP
 
 <img width="825" height="343" alt="32bec9e1-a5ff-4223-819f-77759ad0111c" src="https://github.com/user-attachments/assets/ec4c2f76-83e0-4dd9-9f52-cb3a2517241c" />
-
-### 📸 Autres membres
-- **A :** Ajouter la capture de `index.php`.
-- **D :** Ajouter la capture de `style.css`.
-
----
+ 
 
 ## Exercice 7 — Pull Requests et revue de code
 
 Chaque étudiant crée une Pull Request vers `main`. Un autre membre examine et commente le code avant la fusion.
 
 **Cycle de revue :** A → B → C → D → A
+
+
+### 📸 Étudiant A 
+
+<img width="1600" height="732" alt="7a906430-74e8-4578-9b3f-319deea8b3bd" src="https://github.com/user-attachments/assets/036b35bd-6cbc-472e-8bd4-baf472626d6e" />
+
 
 ### 👩‍💻 Étudiant B
 
@@ -252,9 +270,6 @@ Pull Request #3 — Ajout de la liste des projets.
 
 <img width="1600" height="758" alt="3bf796a7-243e-4e02-b3e5-61a6191159ea" src="https://github.com/user-attachments/assets/7842fd7a-cae2-40d1-b9b5-be35512beb3c" />
 <img width="954" height="917" alt="a7e775a9-5b99-49a7-bc4f-eb6ab25a41a1" src="https://github.com/user-attachments/assets/620449cf-46dc-4990-9816-0f61d531e5d1" />
-
-### 📸 Autres membres
-- **A :** Ajouter la capture de votre Pull Request.
 
 
 ---
@@ -320,11 +335,7 @@ git push -u origin conflit/etudiant-b
 
 
 
-### 📸 Autres membres
-- **A :** Ajouter la capture de création de `configuration.txt`.
-- **D :** Ajouter une capture ou une observation si nécessaire.
 
----
 
 # 🚀 4. Installation et exécution
 
@@ -354,15 +365,7 @@ Ouvrir les pages dans le navigateur :
 - http://localhost:8001/projets.php
 
 ---
-
-# ✅ 5. Vérification finale
-
-Afficher l'historique graphique et les branches :
-
-```bash
-git log --oneline --graph --all --decorate
-git branch -a
-```
+ 
 
 Vérifier que `main` est à jour :
 
