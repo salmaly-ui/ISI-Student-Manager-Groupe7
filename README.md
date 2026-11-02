@@ -72,7 +72,8 @@ L'étudiant A crée le dépôt GitHub et invite les autres membres comme collabo
 ### 📸 Étudiant C
 
  <img width="626" height="464" alt="image" src="https://github.com/user-attachments/assets/c301e89f-a747-43c2-aea9-29d083b6d2e3" />
- ### 📸 Étudiant D
+ 
+### 📸 Étudiant D
  <img width="1453" height="691" alt="Screenshot 2026-11-02 104648" src="https://github.com/user-attachments/assets/86044fd4-e690-4564-865d-7ccb7b3d2402" />
 
 ### 📸 Autres membres
