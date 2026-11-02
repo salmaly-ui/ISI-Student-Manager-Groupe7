@@ -1,4 +1,3 @@
-<img width="954" height="821" alt="image" src="https://github.com/user-attachments/assets/5371a2df-301e-4f7b-8499-52314a3ea773" />
 # 🎓 ISI Student Manager — Groupe 6
 
 **Master ISI — Semestre 1**  
