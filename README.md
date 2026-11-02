@@ -1,4 +1,4 @@
-
+<img width="954" height="821" alt="image" src="https://github.com/user-attachments/assets/5371a2df-301e-4f7b-8499-52314a3ea773" />
 # 🎓 ISI Student Manager — Groupe 6
 
 **Master ISI — Semestre 1**  
@@ -50,6 +50,10 @@ git config --global --list
 ### 📸 Étudiant C
 
 <img width="483" height="389" alt="image" src="https://github.com/user-attachments/assets/927c4c4a-2ef3-4e60-8837-03f72bbd4511" />
+
+### 📸 Étudiant D
+
+<img width="962" height="476" alt="9bb8e334-93b1-4bd5-a27b-4287430addf1" src="https://github.com/user-attachments/assets/9cc8bd02-ab8f-4dba-b5f7-5b3274cd461a" />
 
 ### 📸 Autres membres
 - **A :** Ajouter votre capture ici.
@@ -109,6 +113,10 @@ git status
 
 <img width="690" height="192" alt="c98e3782-35ee-428e-a357-ad1a7315417d" src="https://github.com/user-attachments/assets/21e7c0a0-b88e-4481-ab0a-df51fd3a1b5d" />
 
+### 📸 Étudiant D
+<img width="1174" height="962" alt="87c5399c-14fb-4dc0-b9b2-f14935a2c871" src="https://github.com/user-attachments/assets/05916cc0-a38e-4c31-8f7c-7264a99a3d5a" />
+<img width="945" height="657" alt="3791afb1-bad5-406a-80a7-994c770ebeef" src="https://github.com/user-attachments/assets/0743167c-2720-400e-98db-b54f97f6980d" />
+![Uploading 87c5399c-14fb-4dc0-b9b2-f14935a2c871.jpg…]()
 
 
 
@@ -158,6 +166,11 @@ git branch
 ### 📸 Étudiant C
 
 <img width="981" height="723" alt="e289cae9-3f09-4f25-a6af-2501b31a820b" src="https://github.com/user-attachments/assets/eaf16d80-4804-4065-abc2-58a6d046778d" />
+
+### 📸 Étudiant D
+
+
+<img width="954" height="821" alt="f46d689b-d862-4d5f-8452-2a1d22e38b7a" src="https://github.com/user-attachments/assets/965b613a-313a-4d34-876f-a4514b8d674b" />
 
 ### 📸 Autres membres
 - **A :** Ajouter votre capture ici.
@@ -235,10 +248,14 @@ Pull Request #3 — Ajout de la liste des projets.
 ### 📸 Étudiant C
 
 <img width="1326" height="571" alt="2c40df0f-faec-418f-aa65-0cbb4e2809b6" src="https://github.com/user-attachments/assets/9cd6de8e-68b2-4942-baf1-de6a0efbc851" />
+### 📸 Étudiant D
+
+<img width="1600" height="758" alt="3bf796a7-243e-4e02-b3e5-61a6191159ea" src="https://github.com/user-attachments/assets/7842fd7a-cae2-40d1-b9b5-be35512beb3c" />
+<img width="954" height="917" alt="a7e775a9-5b99-49a7-bc4f-eb6ab25a41a1" src="https://github.com/user-attachments/assets/620449cf-46dc-4990-9816-0f61d531e5d1" />
 
 ### 📸 Autres membres
 - **A :** Ajouter la capture de votre Pull Request.
-- **D :** Ajouter la capture de votre Pull Request.
+
 
 ---
 
