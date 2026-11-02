@@ -168,7 +168,7 @@ git branch
 
 <img width="981" height="723" alt="e289cae9-3f09-4f25-a6af-2501b31a820b" src="https://github.com/user-attachments/assets/eaf16d80-4804-4065-abc2-58a6d046778d" />
 
-### 📸 Étudiant D
+**### 📸 Étudiant D**
 
 
 <img width="954" height="821" alt="f46d689b-d862-4d5f-8452-2a1d22e38b7a" src="https://github.com/user-attachments/assets/965b613a-313a-4d34-876f-a4514b8d674b" />
@@ -249,7 +249,8 @@ Pull Request #3 — Ajout de la liste des projets.
 ### 📸 Étudiant C
 
 <img width="1326" height="571" alt="2c40df0f-faec-418f-aa65-0cbb4e2809b6" src="https://github.com/user-attachments/assets/9cd6de8e-68b2-4942-baf1-de6a0efbc851" />
-### 📸 Étudiant D
+
+**### 📸 Étudiant D**
 
 <img width="1600" height="758" alt="3bf796a7-243e-4e02-b3e5-61a6191159ea" src="https://github.com/user-attachments/assets/7842fd7a-cae2-40d1-b9b5-be35512beb3c" />
 <img width="954" height="917" alt="a7e775a9-5b99-49a7-bc4f-eb6ab25a41a1" src="https://github.com/user-attachments/assets/620449cf-46dc-4990-9816-0f61d531e5d1" />
