@@ -1,3 +1,4 @@
+
 # 🎓 ISI Student Manager — Groupe 6
 
 **Master ISI — Semestre 1**  
@@ -235,6 +236,9 @@ Création d'une liste contenant les trois projets.
 ### 👩‍💻 Étudiant D — `style.css`
 
 Le travail de mise en forme est réalisé par l'étudiante D sur sa branche `feature/style`.
+Un CSS simple est utilisé pour améliorer l'apparence des pages tout en gardant un design clair et facile à utiliser.
+<img width="1920" height="766" alt="tpp1" src="https://github.com/user-attachments/assets/741138cf-6cd1-4c2c-a30a-4816e8904bcb" />
+<img width="1920" height="766" alt="tp1" src="https://github.com/user-attachments/assets/d5f676b9-3bc6-4928-9e25-3c7e7a7b8b87" />
 
 ---
 
