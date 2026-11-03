@@ -395,4 +395,4 @@ Ce TP nous a permis de pratiquer le travail collaboratif avec Git et GitHub : br
 
 Chaque membre du Groupe 7 a participé au développement de l'application **ISI Student Manager**.
 
-**Master ISI — Groupe 7 | TP 3**
+**Master ISI — Groupe 6 | TP 3**
