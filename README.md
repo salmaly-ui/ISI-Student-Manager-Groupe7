@@ -126,7 +126,8 @@ L'authentification SSH et le clonage du dépôt sont réalisés avec succès.
 
 <img width="1174" height="962" alt="SSH" src="https://github.com/user-attachments/assets/05916cc0-a38e-4c31-8f7c-7264a99a3d5a" />
 
-<img width="945" height="657" alt="Clonage" src="https://github.com/user-attachments/assets/0743167c-2720-400e-98db-b54f97f6980d" />
+<img width="1920" height="766" alt="tp1" src="https://github.com/user-attachments/assets/219965cc-cec5-418e-8433-441416e468a4" />
+
 
 ---
 
