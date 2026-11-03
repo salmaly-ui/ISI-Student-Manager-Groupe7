@@ -1,4 +1,4 @@
-# 🎓 ISI Student Manager — Groupe 7
+# 🎓 ISI Student Manager — Groupe 6
 
 **Master ISI — Semestre 1**  
 **Module :** Méthodologies de développement et Ateliers en PHP  
